@@ -8,11 +8,13 @@ public class stdin_stdout {
         int a = scan.nextInt();
         int b = scan.nextInt();
         int c = scan.nextInt();
+        String d = scan.nextLine();
 
         System.out.println(a);
 
         System.out.println(b);
         System.out.println(c);
+        System.out.println(d);
 
     }
 }
