@@ -20,11 +20,9 @@
       <change afterPath="$PROJECT_DIR$/../../For Future/Python/group_study/.idea/group_study.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Programing Laguage Course/Java/Dive in Android 2.0 - Comprehensive Android Bootcamp.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Programing Laguage Course/Python/.idea/Python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Second/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Second/Problem2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../desktop.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Certificate/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../Certificate/desktop.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Second/Problem1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Second/Problem1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +40,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="24pzHTRQtcFAoAxkMDd1S5n1kVA" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
