@@ -22,6 +22,7 @@
       <change afterPath="$PROJECT_DIR$/../../Programing Laguage Course/Python/.idea/Python.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../desktop.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Certificate/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../Certificate/desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Second/Problem2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Second/Problem2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,9 +52,22 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Problem1">
+  <component name="RunManager" selected="Application.Problem2">
     <configuration name="Problem1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Second.Problem1" />
+      <module name="HackerRankProblem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Second.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Second.Problem2" />
       <module name="HackerRankProblem" />
       <extension name="coverage">
         <pattern>
@@ -106,6 +120,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem2" />
         <item itemvalue="Application.Problem1" />
         <item itemvalue="Application.inputOutput" />
         <item itemvalue="Application.ifElse" />
