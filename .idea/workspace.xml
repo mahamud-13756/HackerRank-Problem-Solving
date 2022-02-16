@@ -51,7 +51,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Problem2">
+  <component name="RunManager" selected="Application.Equation_problem">
+    <configuration name="Equation_problem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Second.Equation_problem" />
+      <module name="HackerRankProblem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Second.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Problem1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Second.Problem1" />
       <module name="HackerRankProblem" />
@@ -104,26 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="stdin_stdout" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="First.stdin_stdout" />
-      <module name="HackerRankProblem" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="First.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Equation_problem" />
         <item itemvalue="Application.Problem2" />
         <item itemvalue="Application.Problem1" />
         <item itemvalue="Application.inputOutput" />
         <item itemvalue="Application.ifElse" />
-        <item itemvalue="Application.stdin_stdout" />
       </list>
     </recent_temporary>
   </component>
